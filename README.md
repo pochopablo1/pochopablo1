@@ -5,10 +5,12 @@ About Me
 🎓 Continuous Learning: I kickstarted my data adventure with a certification in Data Analytics at Digital House. Following that, I delved into the world of Python and, in November 2023, successfully completed a 360-hour Data Science bootcamp.
 🚀 Projects Showcase: Here, you'll find a collection of my projects developed during the bootcamp, showcasing my skills and dedication to the field.
 
+
 Skills
 📊 Data Analysis: Proficient in extracting valuable insights from data, turning raw information into actionable strategies.
 🐍 Python: Experienced in leveraging Python for data manipulation, analysis, and visualization.
 🤖 Machine Learning: Familiar with implementing machine learning algorithms for predictive modeling and decision-making.
+
 
 Let's Connect
 📧 Email: pablo.santilli7@gmail.com
