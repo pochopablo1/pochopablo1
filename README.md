@@ -1,4 +1,4 @@
-👋 Hello there! I'm Pablo, a 37-year-old data enthusiast from Argentina. 🇦🇷 I'm not only passionate about analyzing data but also a devoted fan of Boca Juniors and Lionel Messi. When I'm not diving into datasets, you'll likely find me cruising on my bicycle, enjoying the great outdoors.
+👋 Hello there! I'm Pablo, a 37-year-old data enthusiast from Argentina. I'm not only passionate about analyzing data but also a devoted fan of Boca Juniors and Lionel Messi. When I'm not diving into datasets, you'll likely find me cruising on my bicycle, enjoying the great outdoors.
 
 **About Me**
 - 💡 **Passion for Data:** My journey into the world of data started four years ago, and I've been on an exciting learning path ever since.
