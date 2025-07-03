@@ -1,18 +1,29 @@
-👋 Hello there! I'm Pablo, a 37-year-old data enthusiast from Argentina. I'm not only passionate about analyzing data but also a devoted fan of Boca Juniors and Lionel Messi. When I'm not diving into datasets, you'll likely find me cruising on my bicycle, enjoying the great outdoors.
+👤 Sobre mí
+Mi nombre es Pablo, soy de Argentina y me dedico al análisis de datos.
 
-**About Me**
-- 💡 **Passion for Data:** My journey into the world of data started four years ago, and I've been on an exciting learning path ever since.
-- 🎓 **Continuous Learning:** I kickstarted my data adventure with a certification in Data Analytics at Digital House. Following that, I delved into the world of Python and, in November 2023, successfully completed a 360-hour Data Science bootcamp.
-- 🚀 **Projects Showcase:** Here, you'll find a collection of my projects developed during the bootcamp, showcasing my skills and dedication to the field.
+🚲 Aficionado al ciclismo y seguidor de Boca Juniors y Lionel Messi ⚽.
 
-**Skills**
-- 📊 **Data Analysis:** Proficient in extracting valuable insights from data, turning raw information into actionable strategies.
-- 🐍 **Python:** Experienced in leveraging Python for data manipulation, analysis, and visualization.
-- 🤖 **Machine Learning:** Familiar with implementing machine learning algorithms for predictive modeling and decision-making.
+Mi formación en el sector de datos incluye un Máster en Business Intelligence y Análisis de Datos, un bootcamp en Ciencia de Datos completado en noviembre de 2023 y una certificación previa en Análisis de Datos de Digital House.
 
-**Let's Connect**
-- 📧 **Email:** pablo.santilli7@gmail.com
-- 🌐 **LinkedIn:** (www.linkedin.com/in/pablosantilli)
+En este perfil se encuentran los proyectos que he desarrollado, donde aplico las habilidades que he adquirido.
 
-**Let's Create Data-driven Solutions Together!**
-I'm eager to bring my passion for data and skills in Data Science to a dynamic team. If you're looking for someone who is not only technically adept but also brings a unique blend of curiosity and dedication, let's connect! Together, we can turn data into insights and drive impactful decisions.
+🛠️ Habilidades
+
+📈 Análisis de Datos: Capacidad para procesar datos y extraer información útil para la toma de decisiones.
+
+🧠 Business Intelligence: Creación de estrategias de negocio basadas en datos.
+
+📊 Power BI: Creación de dashboards y reportes interactivos para la visualización de datos.
+
+🐍 Python: Uso de librerías como Pandas, Matplotlib y Seaborn para la manipulación y visualización de datos.
+
+🗃️ SQL: Experiencia básica en la realización de consultas a bases de datos.
+
+🤖 Machine Learning: Nociones básicas de algoritmos para modelos predictivos.
+
+📧 Contacto
+Email: pablo.santilli7@gmail.com
+LinkedIn: www.linkedin.com/in/pablosantilli
+
+Busco aplicar mis conocimientos en un equipo de trabajo y continuar desarrollándome profesionalmente en el área de datos. Si mi perfil es de su interés, no dude en contactarme.
+
